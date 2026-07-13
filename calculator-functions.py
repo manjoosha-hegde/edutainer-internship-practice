@@ -1,5 +1,4 @@
 # Function-Based Calculator System
-
 # Defining functions
 def add(a, b):
     return a + b
